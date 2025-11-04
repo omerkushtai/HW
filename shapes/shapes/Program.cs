@@ -12,6 +12,6 @@ internal class Program
         Console.WriteLine(((Rectangle)shapes[1]).Area());
         Console.WriteLine(((Rectangle)shapes[1]).Perimeter());
         Console.WriteLine(((Square)shapes[2]).Area());
-        Console.WriteLine(((Square)shapes[]).Perimeter());
+        Console.WriteLine(((Square)shapes[2]).Perimeter());
     }
 }
