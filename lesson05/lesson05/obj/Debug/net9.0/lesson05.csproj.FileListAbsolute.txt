@@ -1,0 +1,15 @@
+/Users/omer/GIT/HW/lesson05/lesson05/bin/Debug/net9.0/lesson05
+/Users/omer/GIT/HW/lesson05/lesson05/bin/Debug/net9.0/lesson05.deps.json
+/Users/omer/GIT/HW/lesson05/lesson05/bin/Debug/net9.0/lesson05.runtimeconfig.json
+/Users/omer/GIT/HW/lesson05/lesson05/bin/Debug/net9.0/lesson05.dll
+/Users/omer/GIT/HW/lesson05/lesson05/bin/Debug/net9.0/lesson05.pdb
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/lesson05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/lesson05.AssemblyInfoInputs.cache
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/lesson05.AssemblyInfo.cs
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/lesson05.csproj.CoreCompileInputs.cache
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/lesson05.sourcelink.json
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/lesson05.dll
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/refint/lesson05.dll
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/lesson05.pdb
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/lesson05.genruntimeconfig.cache
+/Users/omer/GIT/HW/lesson05/lesson05/obj/Debug/net9.0/ref/lesson05.dll

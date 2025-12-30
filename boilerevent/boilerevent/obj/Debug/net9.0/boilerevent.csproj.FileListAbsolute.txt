@@ -1,0 +1,15 @@
+/Users/omer/GIT/HW/boilerevent/boilerevent/bin/Debug/net9.0/boilerevent
+/Users/omer/GIT/HW/boilerevent/boilerevent/bin/Debug/net9.0/boilerevent.deps.json
+/Users/omer/GIT/HW/boilerevent/boilerevent/bin/Debug/net9.0/boilerevent.runtimeconfig.json
+/Users/omer/GIT/HW/boilerevent/boilerevent/bin/Debug/net9.0/boilerevent.dll
+/Users/omer/GIT/HW/boilerevent/boilerevent/bin/Debug/net9.0/boilerevent.pdb
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/boilerevent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/boilerevent.AssemblyInfoInputs.cache
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/boilerevent.AssemblyInfo.cs
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/boilerevent.csproj.CoreCompileInputs.cache
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/boilerevent.sourcelink.json
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/boilerevent.dll
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/refint/boilerevent.dll
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/boilerevent.pdb
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/boilerevent.genruntimeconfig.cache
+/Users/omer/GIT/HW/boilerevent/boilerevent/obj/Debug/net9.0/ref/boilerevent.dll
